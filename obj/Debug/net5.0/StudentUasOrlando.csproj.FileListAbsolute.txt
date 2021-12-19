@@ -646,3 +646,7 @@ D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\Razor\Pages\StudentPa
 D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\Razor\Pages\ViewEnrollmentPage.razor.g.cs
 D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\RazorDeclaration\Pages\DelViewEnrollment.razor.g.cs
 D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\Razor\Pages\DelViewEnrollment.razor.g.cs
+D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\RazorDeclaration\Pages\CorseViewEnrollment.razor.g.cs
+D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\Razor\Pages\CorseViewEnrollment.razor.g.cs
+D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\RazorDeclaration\Pages\DetailssViewEnrollment.razor.g.cs
+D:\pemgrogramanFrontend\StudentUasOrlando\obj\Debug\net5.0\Razor\Pages\DetailssViewEnrollment.razor.g.cs

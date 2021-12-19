@@ -195,11 +195,11 @@
       "mscorlib.dll": "sha256-0qsbc1acYr3S6P7t9gSYyghOhMVs3CTJ9ukQ1VXqksY=",
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
-      "StudentUasOrlando.dll": "sha256-iMSwSXcrYC9NOtXSlKaSUruIibDxazry8sllwcolW2c="
+      "StudentUasOrlando.dll": "sha256-NkxDv5EyIEDD6oq\/OP+wyLCHaEYexZjiSyWtKYNkz40="
     },
     "lazyAssembly": null,
     "pdb": {
-      "StudentUasOrlando.pdb": "sha256-Nq0OKhHSD2K6PDILllrvr2D3ri4oqmcXAdtluH2XiRU="
+      "StudentUasOrlando.pdb": "sha256-hOiwgzc2sBsRbmmZ+Cdf1hLIqG7H3uwrdwFB3JXFq0c="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",

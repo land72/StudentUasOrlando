@@ -1,0 +1,26 @@
+@page "/corseviewEnrollment"
+
+<h3>Show Entrollment</h3>
+
+<table class = "table table-striped">
+    <thead>
+        <tr>
+            <th>CourseID</th>
+            <th>Title</th>
+             <th>Credits</th>
+             
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var stud in Students){
+            <tr>
+        <td>@stud.studentID</td>
+        <td>@stud.lastName</td>
+        <td>@stud.firstName</td>
+        <td>@stud.enrollmentDate</td>
+        <td><a href ="@($"detailstudent/{stud.studentID}")" class="btn btn-primary">Detail</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

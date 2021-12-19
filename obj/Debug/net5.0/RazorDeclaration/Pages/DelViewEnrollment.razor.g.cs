@@ -82,7 +82,7 @@ using StudentUasOrlando.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/deviewEnrollment")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/delviewEnrollment")]
     public partial class DelViewEnrollment : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

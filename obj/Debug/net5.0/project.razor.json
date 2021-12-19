@@ -352,39 +352,6 @@
         }
       },
       {
-        "HashCode": 2045672597,
-        "Kind": "Components.Component",
-        "Name": "StudentUasOrlando.Pages.Counter",
-        "AssemblyName": "StudentUasOrlando",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "StudentUasOrlando.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1078697651,
-        "Kind": "Components.Component",
-        "Name": "StudentUasOrlando.Pages.Counter",
-        "AssemblyName": "StudentUasOrlando",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "StudentUasOrlando.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "StudentUasOrlando.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1370394341,
         "Kind": "Components.Component",
         "Name": "StudentUasOrlando.Pages.FetchData",
@@ -418,35 +385,101 @@
         }
       },
       {
-        "HashCode": 1903967620,
+        "HashCode": 1781968161,
         "Kind": "Components.Component",
-        "Name": "StudentUasOrlando.Pages.delViewEnrollment",
+        "Name": "StudentUasOrlando.Pages.CorseViewEnrollment",
         "AssemblyName": "StudentUasOrlando",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "delViewEnrollment"
+            "TagName": "CorseViewEnrollment"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "StudentUasOrlando.Pages.delViewEnrollment"
+          "Common.TypeName": "StudentUasOrlando.Pages.CorseViewEnrollment"
         }
       },
       {
-        "HashCode": -1926306796,
+        "HashCode": -1028006675,
         "Kind": "Components.Component",
-        "Name": "StudentUasOrlando.Pages.delViewEnrollment",
+        "Name": "StudentUasOrlando.Pages.CorseViewEnrollment",
         "AssemblyName": "StudentUasOrlando",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "StudentUasOrlando.Pages.delViewEnrollment"
+            "TagName": "StudentUasOrlando.Pages.CorseViewEnrollment"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "StudentUasOrlando.Pages.delViewEnrollment",
+          "Common.TypeName": "StudentUasOrlando.Pages.CorseViewEnrollment",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2045672597,
+        "Kind": "Components.Component",
+        "Name": "StudentUasOrlando.Pages.Counter",
+        "AssemblyName": "StudentUasOrlando",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "StudentUasOrlando.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1078697651,
+        "Kind": "Components.Component",
+        "Name": "StudentUasOrlando.Pages.Counter",
+        "AssemblyName": "StudentUasOrlando",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "StudentUasOrlando.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "StudentUasOrlando.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1368477611,
+        "Kind": "Components.Component",
+        "Name": "StudentUasOrlando.Pages.DetailssViewEnrollment",
+        "AssemblyName": "StudentUasOrlando",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailssViewEnrollment"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "StudentUasOrlando.Pages.DetailssViewEnrollment"
+        }
+      },
+      {
+        "HashCode": -290627010,
+        "Kind": "Components.Component",
+        "Name": "StudentUasOrlando.Pages.DetailssViewEnrollment",
+        "AssemblyName": "StudentUasOrlando",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "StudentUasOrlando.Pages.DetailssViewEnrollment"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "StudentUasOrlando.Pages.DetailssViewEnrollment",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -480,59 +513,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "StudentUasOrlando.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 426928423,
-        "Kind": "Components.Component",
-        "Name": "StudentUasOrlando.Shared.SurveyPrompt",
-        "AssemblyName": "StudentUasOrlando",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "StudentUasOrlando.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1798268989,
-        "Kind": "Components.Component",
-        "Name": "StudentUasOrlando.Shared.SurveyPrompt",
-        "AssemblyName": "StudentUasOrlando",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "StudentUasOrlando.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "StudentUasOrlando.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -629,6 +609,59 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "StudentUasOrlando.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 426928423,
+        "Kind": "Components.Component",
+        "Name": "StudentUasOrlando.Shared.SurveyPrompt",
+        "AssemblyName": "StudentUasOrlando",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "StudentUasOrlando.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1798268989,
+        "Kind": "Components.Component",
+        "Name": "StudentUasOrlando.Shared.SurveyPrompt",
+        "AssemblyName": "StudentUasOrlando",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "StudentUasOrlando.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "StudentUasOrlando.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13383,6 +13416,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "d:\\pemgrogramanFrontend\\StudentUasOrlando\\Pages\\CorseViewEnrollment.razor",
+      "TargetPath": "Pages\\CorseViewEnrollment.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\pemgrogramanFrontend\\StudentUasOrlando\\Pages\\DetailStudent.razor",
       "TargetPath": "Pages\\DetailStudent.razor",
       "FileKind": "component"
@@ -13405,6 +13443,11 @@
     {
       "FilePath": "d:\\pemgrogramanFrontend\\StudentUasOrlando\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\pemgrogramanFrontend\\StudentUasOrlando\\Pages\\DetailssViewEnrollment.razor",
+      "TargetPath": "Pages\\DetailssViewEnrollment.razor",
       "FileKind": "component"
     },
     {
