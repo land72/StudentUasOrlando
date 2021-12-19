@@ -1,0 +1,28 @@
+@page "/viewEnrollmentdetail/{id}"
+
+@if(ViewEnrollment == null || ViewEnrollment.student==null){
+    <div class="spinner"></div>
+
+}
+else {
+
+ <div class="row justify-content-center m-3">
+     <div class="col-sm-8">
+         <hi>@ViewEnrollment.firstName @ViewEnrollment.lastName</hi>
+     </div>
+<div class="card-body text-center">
+    <img class="card-img-top"
+    @onmousemove="@Mouse_Move" />
+    <h4>Employee ID: @ViewEnrollment.studentID</h4>
+    <h4>tANGGAL MASUK: @ViewEnrollment.enrollmentDate</h4>
+    <h4>courseID: @ViewEnrollment.courseID</h4>
+</div>
+<button class="btn bnt-primary"@onclick="Button_Click">@ButtonText</button>
+
+ <div class="card-footer text-center @CssClass">
+       <a href="#" class="btn btn-primary m-1">Back</a>
+ <a href="#" class="btn btn-primary m-1">Edit</a>
+  <a href="#" class="btn btn-primary m-1">Delete</a>
+ </div>
+</div>
+}

@@ -1,0 +1,25 @@
+@page "/studentpage"
+
+<h3>Student</h3>
+
+<table class = "table table-striped">
+    <thead>
+        <tr>
+            <th>Nim</th>
+            <th>Nama Belakang</th>
+             <th>Nama Depan</th>
+              <th>Tanggal Masuk</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var stud in Students){
+            <tr>
+        <td>@stud.studentID</td>
+        <td>@stud.lastName</td>
+        <td>@stud.firstName</td>
+        <td>@stud.enrollmentDate</td>
+        <td><a href ="@($"detailstudent/{stud.studentID}")" class="btn btn-primary">Detail</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
