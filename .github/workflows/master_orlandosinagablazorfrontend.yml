@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'OrlandosinagaBlazorFrontend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66D56B9A94F7487581412ECC1535CC50 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6CC427B78904E0FA5F3FC01B4B42AF8 }}
           package: .
